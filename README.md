@@ -17,6 +17,6 @@ Step 1. Add the JitPack repository to your build file
  
 ```gradle
 dependencies {
-	        implementation 'com.github.DenisHDG:denis_teste_poc:Tag'
+	        implementation 'com.github.DenisHDG:denis_teste_poc:1.7'
 	     }
 ```
