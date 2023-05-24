@@ -46,11 +46,10 @@ afterEvaluate {
         publications {
             // Creates a Maven publication called "release".
             maven(MavenPublication) {
-                groupId = 'com.example.MyLibrary'
+                groupId = 'com.example.denis_poc'
                 artifactId = 'final'
-                version = '1.6'
+                version = '1.8'
 //                    from components.java
-
                 pom {
                     description = 'A description of my library'
                 }
